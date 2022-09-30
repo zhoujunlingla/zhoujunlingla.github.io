@@ -1,10 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>zhoujunlingla blog</title>
-        <link>https://zhoujunlingla.github.io/</link>
-        <description>a website for share</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2966279127@qq.com (zhoujunlingla)</managingEditor>
-            <webMaster>2966279127@qq.com (zhoujunlingla)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 22:17:15 &#43;0800</lastBuildDate>
-            <atom:link href="https://zhoujunlingla.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sulv&#39;s Blog</title>
+    <link>https://www.sulvblog.cn/</link>
+    <description>Recent content on Sulv&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 27 Sep 2022 22:17:15 +0800</lastBuildDate><atom:link href="https://www.sulvblog.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog1</title>
+      <link>https://www.sulvblog.cn/blog1/</link>
+      <pubDate>Tue, 27 Sep 2022 22:17:15 +0800</pubDate>
+      
+      <guid>https://www.sulvblog.cn/blog1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
