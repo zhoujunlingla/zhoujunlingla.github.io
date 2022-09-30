@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>建站 on zhoujunl&#39;s Blog</title>
-    <link>https://zhoujunlingla.github.io/posts/blog/</link>
-    <description>Recent content in 建站 on zhoujunl&#39;s Blog</description>
+    <title>分类2 on zhoujunl&#39;s Blog</title>
+    <link>https://zhoujunlingla.github.io/categories/%E5%88%86%E7%B1%BB2/</link>
+    <description>Recent content in 分类2 on zhoujunl&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://zhoujunlingla.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://zhoujunlingla.github.io/categories/%E5%88%86%E7%B1%BB2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://zhoujunlingla.github.io/posts/blog/blog1/</link>
