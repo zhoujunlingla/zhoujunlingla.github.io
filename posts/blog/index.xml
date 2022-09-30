@@ -6,5 +6,14 @@
     <description>Recent content in 建站 on zhoujunl&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://zhoujunlingla.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my blog1</title>
+      <link>https://zhoujunlingla.github.io/posts/blog/blog1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoujunlingla.github.io/posts/blog/blog1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
