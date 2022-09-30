@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sulvblog.cn/blog1/</loc>
-    <lastmod>2022-09-27T22:17:15+08:00</lastmod>
+    <loc>https://zhoujunlingla.github.io/about/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://www.sulvblog.cn/post/</loc>
-    <lastmod>2022-09-27T22:17:15+08:00</lastmod>
+    <loc>https://zhoujunlingla.github.io/archives/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://www.sulvblog.cn/</loc>
-    <lastmod>2022-09-27T22:17:15+08:00</lastmod>
+    <loc>https://zhoujunlingla.github.io/links/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://www.sulvblog.cn/categories/</loc>
+    <loc>https://zhoujunlingla.github.io/search/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://www.sulvblog.cn/series/</loc>
+    <loc>https://zhoujunlingla.github.io/categories/</loc>
   </url><url>
-    <loc>https://www.sulvblog.cn/tags/</loc>
+    <loc>https://zhoujunlingla.github.io/series/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/tags/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/posts/blog/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/posts/tech/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/posts/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/posts/life/</loc>
+  </url><url>
+    <loc>https://zhoujunlingla.github.io/posts/read/</loc>
   </url>
 </urlset>
