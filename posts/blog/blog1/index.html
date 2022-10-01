@@ -213,6 +213,26 @@
 <main class="main">
 
 <article class="post-single">
+<div>
+    <div class="pagination__title">
+        <span class="pagination__title-h" style="font-size: 20px;">💬评论</span>
+        <hr />
+    </div>
+    <div id="tcomment"></div>
+    <script src="https://cdn.staticfile.org/twikoo//twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://twikoo-api-gamma.vercel.app",  
+            el: "#tcomment",
+            lang: 'zh-CN',
+            region: '',  
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        });
+    </script>
+</div>
+
+
+</article>
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://zhoujunlingla.github.io/">Home</a>&nbsp;»&nbsp;<a href="https://zhoujunlingla.github.io/posts/">文章</a>&nbsp;»&nbsp;<a href="https://zhoujunlingla.github.io/posts/blog/">建站</a></div>
     <h1 class="post-title">
@@ -249,27 +269,6 @@
     </ul>
 
   </footer>
-<div>
-    <div class="pagination__title">
-        <span class="pagination__title-h" style="font-size: 20px;">💬评论</span>
-        <hr />
-    </div>
-    <div id="tcomment"></div>
-    <script src="https://cdn.staticfile.org/twikoo//twikoo.all.min.js"></script>
-    <script>
-        twikoo.init({
-            envId: "https://twikoo-api-gamma.vercel.app",  
-            el: "#tcomment",
-            lang: 'zh-CN',
-            region: '',  
-            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
-        });
-    </script>
-</div>
-
-
-
-</article>
     </main>
     
 <footer class="footer">
