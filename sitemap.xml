@@ -29,6 +29,9 @@
   </url><url>
     <loc>https://zhoujunlingla.github.io/posts/tech/</loc>
   </url><url>
+    <loc>https://zhoujunlingla.github.io/search/</loc>
+    <priority>0.1</priority>
+  </url><url>
     <loc>https://zhoujunlingla.github.io/posts/</loc>
   </url><url>
     <loc>https://zhoujunlingla.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
