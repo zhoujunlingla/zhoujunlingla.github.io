@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li {
+    margin-bottom: 5px;
+}
+a {
+    color: blue; /* 设置链接文字颜色为蓝色 */
+    text-decoration: underline; /* 添加下划线效果表示链接 */
+}
+
+a:hover {
+    color: darkblue; /* 设置鼠标悬停时链接文字颜色为深蓝色 */
+}
+
+.time {
+    float: right;
+}
+.skills-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills-list li{
+    margin-bottom: 10px;
+}
+.skills-list li::before{
+    content: "•";
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+
+.experience-list1 li {
+    margin-bottom: 10px;
+}
+
+.experience-list1 li:before {
+    content: "\25E6"; /* Unicode 编码，表示空心圆 */
+}
