@@ -1,61 +1,73 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     margin: 0;
-    padding: 0;
-}
-.container {
-    width: 80%;
-    margin: 20px auto;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-h1 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-li {
-    margin-bottom: 5px;
-}
-a {
-    color: blue; /* 设置链接文字颜色为蓝色 */
-    text-decoration: underline; /* 添加下划线效果表示链接 */
 }
 
-a:hover {
-    color: darkblue; /* 设置鼠标悬停时链接文字颜色为深蓝色 */
+.card {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 600px; /* 增加卡片的宽度 */
+    text-align: center;
+}
+
+.profile-pic img {
+    border-radius: 50%;
+    width: 150px; /* 增加图片的尺寸 */
+    height: 150px; /* 增加图片的尺寸 */
+}
+
+h1 {
+    font-size: 32px; /* 增加字体的尺寸 */
+    margin: 20px 0;
+}
+
+.contact-info {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-info li {
+    margin: 15px 0;
+}
+
+.contact-info i {
+    margin-right: 8px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 30px 0;
+}
+
+.education {
+    list-style: none;
+    padding: 0;
+}
+
+.education li {
+    margin: 15px 0;
 }
 
 .time {
-    float: right;
-}
-.skills-list{
-    list-style: none;
-    padding: 0;
-    margin: 0;
+    font-size: 16px; /* 增加字体的尺寸 */
+    color: #666;
 }
 
-.skills-list li{
-    margin-bottom: 10px;
-}
-.skills-list li::before{
-    content: "•";
-    margin-right: 5px;
-    font-weight: bold;
+a {
+    text-decoration: none;
+    color: #007BFF;
 }
 
-
-.experience-list1 li {
-    margin-bottom: 10px;
+a:hover {
+    text-decoration: underline;
 }
 
-.experience-list1 li:before {
-    content: "\25E6"; /* Unicode 编码，表示空心圆 */
-}
